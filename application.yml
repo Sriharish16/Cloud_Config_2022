@@ -1,7 +1,6 @@
 server:
   port: 5050
-  
-  spring:
+spring:
   application:
     name: microservice-one
   datasource:
