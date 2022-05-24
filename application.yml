@@ -1,8 +1,5 @@
-customer:
-   firstName: maha
+
 spring:
-  application:
-    name: 
   datasource:
     url: jdbc:oracle:thin:@10.90.1.105:1521/DEV
     username: HR
