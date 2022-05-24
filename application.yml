@@ -1,7 +1,3 @@
-customer: 
-  firstName: Sriharish
-
-      
 server:
   port: 5050
   
